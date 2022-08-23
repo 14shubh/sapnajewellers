@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "sapna-jewellers"
+  "defaultProject": "sapna-jewellers",
+  "cli": {
+    "analytics": false
+  }
 }
